@@ -15,3 +15,7 @@ http://www.dcs.gla.ac.uk/vincia/?p=307
 ## Dictionary Learning from patches
 
 ![image](https://user-images.githubusercontent.com/40122399/85135036-0c848180-b25b-11ea-9eed-8c668cdf4646.png)
+
+## Demo
+
+![image](https://user-images.githubusercontent.com/40122399/85135536-dd224480-b25b-11ea-9fc3-f5e827320f12.png)
