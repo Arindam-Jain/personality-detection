@@ -4,7 +4,7 @@ https://ieeexplore.ieee.org/document/8068257
 # DATASET
 http://www.dcs.gla.ac.uk/vincia/?p=307
 
-# Block Diagram 
+# Block Diagram - PipeLine
 
 ![image](https://user-images.githubusercontent.com/40122399/85134676-8a945880-b25a-11ea-8b18-1a3d74c44b67.png)
 
